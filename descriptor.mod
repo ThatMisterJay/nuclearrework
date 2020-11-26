@@ -7,4 +7,4 @@ tags={
 	"Gameplay"
 }
 name="Nuclear Rework"
-supported_version="1.9.3"
+supported_version="1.10.*"

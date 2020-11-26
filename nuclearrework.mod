@@ -7,5 +7,5 @@ tags={
 	"Gameplay"
 }
 name="Nuclear Rework"
-supported_version="1.9.3"
+supported_version="1.10.*"
 path="C:/Users/mjten/Documents/Paradox Interactive/Hearts of Iron IV/mod/nuclearrework"
