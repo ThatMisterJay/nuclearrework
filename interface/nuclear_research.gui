@@ -24,7 +24,7 @@ guiTypes = {
 		position = {x=0 y=0}
 		orientation = CENTER
 		origo = CENTER
-		size = { width=1000 height=1000 }
+		size = { width=990 height=1000 }
 		moveable = yes
 
 		fade_time = 300
@@ -72,7 +72,8 @@ guiTypes = {
 			font = "hoi_30header"
 			borderSize = {x = 0 y = 0}
 			text = "NUCLEAR RESEARCH"
-			maxWidth = 500
+			maxWidth = 235
+			maxHeight = 29
 			fixedsize = yes
 			format = left
 			orientation = center_up
@@ -80,10 +81,10 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "scientists"
-			position = { x = -50 y = 95 }
+			position = { x = -44 y = 95 }
 			font = "hoi_16mbs"
 			text = "Free Scientists"
-			maxWidth = 200
+			maxWidth = 90
 			maxHeight = 23
 			format = left
 			orientation = center_up
@@ -207,10 +208,10 @@ guiTypes = {
 		### Nuclear Research ###
 			instantTextboxType = {
 				name = "nuclear_research"
-				position = { x = -417 y = -230 }
+				position = { x = -413 y = -230 }
 				font = "hoi_16mbs"
 				text = "Nuclear Research"
-				maxWidth = 200
+				maxWidth = 110
 				maxHeight = 23
 				format = left
 				orientation = center
@@ -250,10 +251,10 @@ guiTypes = {
 		### Fissile Material ###
 			instantTextboxType = {
 				name = "fissile_material"
-				position = { x = 275 y = -230 }
+				position = { x = 276 y = -230 }
 				font = "hoi_16mbs"
 				text = "Create Fissile Material"
-				maxWidth = 200
+				maxWidth = 140
 				maxHeight = 23
 				format = left
 				orientation = center
@@ -301,7 +302,7 @@ guiTypes = {
 		### Moderator Research ###
 			instantTextboxType = {
 				name = "moderator_research"
-				position = { x = -417 y = 200 }
+				position = { x = -413 y = 200 }
 				font = "hoi_16mbs"
 				text = "Moderator Works"
 				maxWidth = 200
@@ -344,10 +345,10 @@ guiTypes = {
 		### Nuke Assembly ###
 			instantTextboxType = {
 				name = "nuclear_production"
-				position = { x = 270 y = 200 }
+				position = { x = 276 y = 200 }
 				font = "hoi_16mbs"
 				text = "Nuclear Bomb Assembly"
-				maxWidth = 200
+				maxWidth = 150
 				maxHeight = 23
 				format = left
 				orientation = center
